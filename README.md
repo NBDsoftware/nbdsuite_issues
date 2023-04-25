@@ -26,7 +26,7 @@ If you need help using the web app, please create a new issue and provide as muc
 
 ## Additional information
 
-For more information about **Nostrum Biodiscovery**, please visit [nostrumbiodiscovery.com](nostrumbiodiscovery.com). 
+For more information about **Nostrum Biodiscovery**, please visit [nostrumbiodiscovery.com](https://www.nostrumbiodiscovery.com). 
 
 If you have any questions or concerns about this issue tracker repository, please contact our team at it@nostrumbiodiscovery.com.
 
