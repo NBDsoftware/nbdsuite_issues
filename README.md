@@ -1,14 +1,18 @@
 # NBDSuite web app issue tracker
 
-Welcome to the issue tracker repository for NBDSuite Web App.
+Welcome to the issue tracker repository for [NBDSuite Web App](https://app.nostrumbiodiscovery.com).
 
 Please use this issue tracker to report any bugs, request new features, or ask for support.
 
 ## How to use the issue tracker
 
-To create a new issue, simply click on the "Issues" tab in the top navigation bar, then click the green "New issue" button. Please provide a clear and detailed description of the issue you're experiencing, including any relevant information such as error messages, steps to reproduce the issue, and expected behavior.
+To participate in the ["NBDSuite GUI support" Q&A discussion](https://github.com/NBDsoftware/nbdsuite_issues/discussions), simply click on the "Discussions" tab in the top navigation bar, then click the green "New discussion" button. Please provide a clear and detailed description of your question or topic, including any relevant information such as screenshots or examples.
 
-You can also browse existing issues and contribute to the discussion by adding your own comments. To do this, click on an issue to open it, then scroll down to the comment box.
+You can also browse existing discussions and contribute to the conversation by adding your own comments. To do this, click on a discussion to open it, then scroll down to the comment box.
+
+Please note that the Discussions forum is the preferred method of communication for general questions and discussions related to the NBDSuite GUI. While the [Issues tracker](https://github.com/NBDsoftware/nbdsuite_issues/issues) is still available for reporting bugs or feature requests, the Discussions forum is a better place for more open-ended discussions and community support.
+
+Thank you for being a part of the NBDSuite community! We look forward to hearing your questions and insights.
 
 ## FAQs
 
